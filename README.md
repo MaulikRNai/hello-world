@@ -1,1 +1,2 @@
 # hello-world
+TO be a good web designer i need to master the craft of enhancing user experience and user interface also i want to learn how to user color psychology,grid system and web fonts to make website better and dynamic.
